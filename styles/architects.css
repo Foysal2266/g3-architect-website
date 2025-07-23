@@ -143,6 +143,19 @@ main section{
     border-left: 5px solid #FF900E ;
     padding: 5px;
 }
+.card-container, .card-title{
+    font-weight: 600;
+    font-size: 1.25rem;
+    padding: 30px;
+}
+.card-container{
+    padding: 30px;
+    box-shadow: 0 4px 30px 0 rgba(0, 0, 0, 0.06);
+    margin-bottom: 20px;
+
+    
+}
+
 
 
 
